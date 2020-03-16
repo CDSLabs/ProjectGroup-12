@@ -46,7 +46,7 @@ Python, TensorFlow, Machine Learning Models, Maps API
  
   
  
-## 4. Traffic Sign Recognition using Machine Learning Models
+## 4. Traffic Sign Recognition using Machine Learning Models. - approved
 
 
 #### Description
